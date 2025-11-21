@@ -12,8 +12,8 @@ import (
 	"strings"
 	"sync"
 
-	"gobot/core/buildinfo"
-	coreconfig "gobot/core/config"
+	"github.com/m3rciful/gobot/core/buildinfo"
+	coreconfig "github.com/m3rciful/gobot/core/config"
 )
 
 var (

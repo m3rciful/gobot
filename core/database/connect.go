@@ -9,7 +9,7 @@ import (
 	"github.com/jmoiron/sqlx"
 	_ "github.com/lib/pq"
 
-	"gobot/core/logger"
+	"github.com/m3rciful/gobot/core/logger"
 	"log/slog"
 )
 

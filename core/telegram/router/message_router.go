@@ -3,8 +3,8 @@ package router
 import (
 	"time"
 
-	tg "gobot/core/telegram"
-	"gobot/core/telegram/middleware"
+	tg "github.com/m3rciful/gobot/core/telegram"
+	"github.com/m3rciful/gobot/core/telegram/middleware"
 
 	tele "gopkg.in/telebot.v4"
 )

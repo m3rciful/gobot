@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"gobot/core/logger"
+	"github.com/m3rciful/gobot/core/logger"
 	"log/slog"
 
 	tele "gopkg.in/telebot.v4"

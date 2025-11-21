@@ -2,9 +2,9 @@ package buildinfo
 
 // These variables are intended to be set via -ldflags at build time:
 //
-//	-X 'gobot/core/buildinfo.Version=v1.2.3'
-//	-X 'gobot/core/buildinfo.Commit=abcdef0'
-//	-X 'gobot/core/buildinfo.Date=2025-08-30T12:00:00Z'
+//	-X 'github.com/m3rciful/gobot/core/buildinfo.Version=v1.2.3'
+//	-X 'github.com/m3rciful/gobot/core/buildinfo.Commit=abcdef0'
+//	-X 'github.com/m3rciful/gobot/core/buildinfo.Date=2025-08-30T12:00:00Z'
 //
 // Default values are useful for local dev.
 var (

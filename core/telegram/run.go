@@ -9,10 +9,10 @@ import (
 	"strings"
 	"time"
 
-	coreconfig "gobot/core/config"
-	"gobot/core/logger"
-	tghelpers "gobot/core/telegram/helpers"
-	tgsender "gobot/core/telegram/sender"
+	coreconfig "github.com/m3rciful/gobot/core/config"
+	"github.com/m3rciful/gobot/core/logger"
+	tghelpers "github.com/m3rciful/gobot/core/telegram/helpers"
+	tgsender "github.com/m3rciful/gobot/core/telegram/sender"
 
 	tele "gopkg.in/telebot.v4"
 	"log/slog"

@@ -4,8 +4,8 @@ import (
 	"strings"
 	"time"
 
-	coreconfig "gobot/core/config"
-	"gobot/core/telegram/middleware"
+	coreconfig "github.com/m3rciful/gobot/core/config"
+	"github.com/m3rciful/gobot/core/telegram/middleware"
 
 	tele "gopkg.in/telebot.v4"
 )

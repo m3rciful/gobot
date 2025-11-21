@@ -1,9 +1,9 @@
 package router
 
 import (
-	"gobot/core/logger"
-	tg "gobot/core/telegram"
-	"gobot/core/telegram/middleware"
+	"github.com/m3rciful/gobot/core/logger"
+	tg "github.com/m3rciful/gobot/core/telegram"
+	"github.com/m3rciful/gobot/core/telegram/middleware"
 	"log/slog"
 
 	tele "gopkg.in/telebot.v4"

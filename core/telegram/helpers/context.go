@@ -3,7 +3,7 @@ package helpers
 import (
 	"context"
 
-	"gobot/core/logger"
+	"github.com/m3rciful/gobot/core/logger"
 
 	tele "gopkg.in/telebot.v4"
 )

@@ -3,7 +3,7 @@ package middleware
 import (
 	"runtime/debug"
 
-	"gobot/core/logger"
+	"github.com/m3rciful/gobot/core/logger"
 	"log/slog"
 
 	tele "gopkg.in/telebot.v4"

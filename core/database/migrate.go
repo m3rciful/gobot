@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"gobot/core/logger"
+	"github.com/m3rciful/gobot/core/logger"
 
 	"github.com/golang-migrate/migrate/v4"
 	_ "github.com/golang-migrate/migrate/v4/database/postgres"

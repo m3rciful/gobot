@@ -5,8 +5,8 @@ import (
 	"sync"
 	"time"
 
-	"gobot/core/logger"
-	tghelpers "gobot/core/telegram/helpers"
+	"github.com/m3rciful/gobot/core/logger"
+	tghelpers "github.com/m3rciful/gobot/core/telegram/helpers"
 	"log/slog"
 
 	tele "gopkg.in/telebot.v4"

@@ -5,9 +5,9 @@ import (
 
 	"github.com/jmoiron/sqlx"
 
-	coreconfig "gobot/core/config"
-	coredatabase "gobot/core/database"
-	"gobot/core/logger"
+	coreconfig "github.com/m3rciful/gobot/core/config"
+	coredatabase "github.com/m3rciful/gobot/core/database"
+	"github.com/m3rciful/gobot/core/logger"
 )
 
 // Options control the generic bootstrap pipeline shared between bots.

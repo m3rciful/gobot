@@ -9,9 +9,9 @@ import (
 	"syscall"
 	"time"
 
-	coreconfig "gobot/core/config"
-	"gobot/core/logger"
-	coretelegram "gobot/core/telegram"
+	coreconfig "github.com/m3rciful/gobot/core/config"
+	"github.com/m3rciful/gobot/core/logger"
+	coretelegram "github.com/m3rciful/gobot/core/telegram"
 
 	"log/slog"
 )

@@ -5,9 +5,9 @@ import (
 	"strings"
 	"time"
 
-	"gobot/core/logger"
-	tghelpers "gobot/core/telegram/helpers"
-	"gobot/core/telegram/middleware"
+	"github.com/m3rciful/gobot/core/logger"
+	tghelpers "github.com/m3rciful/gobot/core/telegram/helpers"
+	"github.com/m3rciful/gobot/core/telegram/middleware"
 	"log/slog"
 
 	tele "gopkg.in/telebot.v4"

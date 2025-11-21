@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"gobot/core/telegram/netutil"
+	"github.com/m3rciful/gobot/core/telegram/netutil"
 )
 
 const (
