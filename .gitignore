@@ -1,0 +1,40 @@
+# Executable files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+*.test
+patch.diff
+
+# Coverage and profiling
+*.out
+*.coverprofile
+coverage.*
+profile.*
+*.log
+
+# Go workspace
+go.work
+go.work.sum
+
+# Config files
+.env
+config.yaml
+config/*.yaml
+
+# Dependency directories
+vendor/
+
+# IDE/editor settings
+.vscode/
+.gocache/
+.cache/
+.tmp_gocache/
+tasks.json
+__pycache__/
+
+# Docker-specific
+.dockerignore
